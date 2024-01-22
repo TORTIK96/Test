@@ -3,3 +3,4 @@ def plus (a, b):
 
 if __name__ == "__main__":
     print(plus(input(), input()))
+#eeee
